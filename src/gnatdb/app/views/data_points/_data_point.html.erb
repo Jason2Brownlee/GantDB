@@ -1,0 +1,12 @@
+<div id="datapoint">
+	<div>
+		<span id="data"><%= data_point.data %></span>	
+		<span id="label"><%= data_point.label %></span>
+		<span id="edit_datapoint">
+			<%= link_to 'edit', edit_data_point_path(data_point) %> |
+		    <%= link_to 'delete', data_point, :confirm => 'Are you sure?', :method => :delete %>
+		</span>
+	</div>
+	<div id="tags"><%= data_point.tag_list %></div>
+</div>
+

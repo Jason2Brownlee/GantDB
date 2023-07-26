@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/1/trunk/lib/tasks
+END
+bort.rake
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/trunk/lib/tasks/bort.rake
+END
+rspec.rake
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/trunk/lib/tasks/rspec.rake
+END

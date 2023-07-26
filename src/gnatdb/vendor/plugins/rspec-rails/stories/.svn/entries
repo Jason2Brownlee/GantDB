@@ -1,0 +1,82 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/rspec-rails/stories
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+transactions_should_rollback
+file
+
+
+
+
+2008-09-29T02:27:30.000000Z
+8da53ac1760d618fce981805ea69f3f3
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+helper.rb
+file
+
+
+
+
+2008-09-29T02:27:30.000000Z
+3af491adb00f0bb8d0662629200bd4c1
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+transactions_should_rollback.rb
+file
+
+
+
+
+2008-09-29T02:27:30.000000Z
+7e8d746a15e5eb4a950aa1561969bc1e
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+configuration
+dir
+
+all.rb
+file
+
+
+
+
+2008-09-29T02:27:30.000000Z
+10babb47420b919a81654d7e28833d1b
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+steps
+dir
+

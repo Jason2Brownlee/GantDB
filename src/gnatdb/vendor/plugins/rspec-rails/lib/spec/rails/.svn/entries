@@ -1,0 +1,112 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/rspec-rails/lib/spec/rails
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+extensions
+dir
+
+interop
+dir
+
+extensions.rb
+file
+
+
+
+
+2008-09-29T02:27:29.000000Z
+ef2fa37126cdf190d9e55b7d25eab8f0
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+story_adapter.rb
+file
+
+
+
+
+2008-09-29T02:27:29.000000Z
+243b7d1b2040380fdd1565b23d9039e5
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+matchers
+dir
+
+version.rb
+file
+
+
+
+
+2008-09-29T02:27:29.000000Z
+c54758f9c14d11f5b4e4875f2afc1919
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+matchers.rb
+file
+
+
+
+
+2008-09-29T02:27:29.000000Z
+ef0c729a6dc54a3564bae5e5346424e3
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+example
+dir
+
+example.rb
+file
+
+
+
+
+2008-09-29T02:27:29.000000Z
+fd207aadd6eafde0cfda70e208a62908
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+mocks.rb
+file
+
+
+
+
+2008-09-29T02:27:29.000000Z
+757fb9c0aec45c0a41aad8de139541da
+2008-09-29T02:20:50.859807Z
+1
+jason
+

@@ -1,0 +1,12 @@
+<%= title "#{APP_CONFIG[:site_name]} - #{APP_CONFIG[:site_motto]}" %>
+
+<p id="intro">Simple personal data tracking.</p>
+<p id="intro">Capture your daily data.</p>
+
+<% if logged_in? %>
+	<p id="loggout">Not <%= current_user.login %>? <%= link_to 'Logout', logout_path %>.</p>
+<% else %>
+	<%= render :partial => "sessions/login" %>
+<% end %>
+
+

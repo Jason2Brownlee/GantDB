@@ -1,0 +1,7 @@
+<% title "edit datum" %>
+<h3>Edit Datum</h3>
+
+<%= render :partial => "data_points/advanced_form", :locals=>{:data_point=>@data_point} %>
+
+
+<%= link_to 'Back', data_points_path %>

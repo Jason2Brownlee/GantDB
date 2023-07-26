@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1/trunk/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5/trunk/test/fixtures/users.yml
+END
+roles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/trunk/test/fixtures/roles.yml
+END
+data_points.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/8/trunk/test/fixtures/data_points.yml
+END
+roles_users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/trunk/test/fixtures/roles_users.yml
+END

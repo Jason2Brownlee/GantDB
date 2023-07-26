@@ -1,0 +1,70 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/rspec/examples/stories/game-of-life
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+life
+dir
+
+life.rb
+file
+
+
+
+
+2008-09-29T02:28:00.000000Z
+320bacea705a60f60d00e7b02579a9ec
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+behaviour
+dir
+
+.loadpath
+file
+
+
+
+
+2008-09-29T02:28:00.000000Z
+f6875909ef841d761ec32d815510e3c7
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+README.txt
+file
+
+
+
+
+2008-09-29T02:28:00.000000Z
+1f5974dc8d085a82a10780fb618854b1
+2008-09-29T02:20:50.859807Z
+1
+jason
+

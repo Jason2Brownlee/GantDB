@@ -1,0 +1,82 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/role_requirement
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+test
+dir
+
+init.rb
+file
+
+
+
+
+2008-09-29T02:27:15.000000Z
+16a26f1a46aad1861fc4ab739cc0f028
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+ChangeLog
+file
+
+
+
+
+2008-09-29T02:27:15.000000Z
+c9b5b53265f6e7c60604084a4e2efd1d
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+generators
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2008-09-29T02:27:15.000000Z
+c11f961540aa250cef3184bba89206a4
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+README.textile
+file
+
+
+
+
+2008-09-29T02:27:15.000000Z
+7ec6e425d824d05c143ec7c50c40a767
+2008-09-29T02:20:50.859807Z
+1
+jason
+

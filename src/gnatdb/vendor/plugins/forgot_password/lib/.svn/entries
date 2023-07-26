@@ -1,0 +1,43 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/forgot_password/lib
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+forgot_password
+dir
+
+forgot_password.rb
+file
+
+
+
+
+2008-09-29T02:27:16.000000Z
+1b9fbd8a9d649f81c5dc34d58d5938c0
+2008-09-29T02:20:50.859807Z
+1
+jason
+

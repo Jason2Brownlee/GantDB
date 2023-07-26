@@ -1,0 +1,41 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/rspec-rails/lib/spec/rails/extensions/spec/example
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+configuration.rb
+file
+
+
+
+
+2008-09-29T02:27:28.000000Z
+e333a9fbba33861ea37c0553ec14f4cf
+2008-09-29T02:20:50.859807Z
+1
+jason
+has-props
+

@@ -1,0 +1,16 @@
+<%= title "Forgot Your Password?" %>
+
+<div id="signup_box">
+<% form_for @password do |f| %>
+	<div>
+		<%= f.error_messages %>
+	</div>
+  	<div>
+		<div id="field_label">email</div>
+		<div><%= f.text_field :email %></div>
+	</div>
+	<div>
+		<%= f.submit "Submit" %>
+	</div>
+<% end %>
+</div>

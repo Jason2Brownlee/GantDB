@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/!svn/ver/1/trunk/spec
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/trunk/spec/spec_helper.rb
+END
+rcov.opts
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1/trunk/spec/rcov.opts
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1/trunk/spec/spec.opts
+END

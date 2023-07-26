@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1/trunk/db/migrate
+END
+20080811094730_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/trunk/db/migrate/20080811094730_create_users.rb
+END
+20080811135317_create_passwords.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/trunk/db/migrate/20080811135317_create_passwords.rb
+END
+20080912160936_add_default_admin_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5/trunk/db/migrate/20080912160936_add_default_admin_user.rb
+END
+20080811093045_create_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/trunk/db/migrate/20080811093045_create_sessions.rb
+END
+20080927004051_add_date_to_data_points.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1/trunk/db/migrate/20080927004051_add_date_to_data_points.rb
+END
+20080912160708_create_roles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/trunk/db/migrate/20080912160708_create_roles.rb
+END
+20080926022555_create_data_points.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/trunk/db/migrate/20080926022555_create_data_points.rb
+END
+20080926022636_acts_as_taggable_migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1/trunk/db/migrate/20080926022636_acts_as_taggable_migration.rb
+END

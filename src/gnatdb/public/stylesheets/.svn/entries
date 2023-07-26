@@ -1,0 +1,40 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/public/stylesheets
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+base.css
+file
+11
+
+
+
+2008-09-30T05:58:38.000000Z
+96255f8b97e099cf8aed7c96c1fea40d
+2008-09-30T06:15:45.662147Z
+11
+jason
+

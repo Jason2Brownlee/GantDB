@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+pushup:
+  label: pushup
+  data: 30
+  date: <%= Date.today %>
+  user: fred
+
+situp:
+  label: situp
+  data: 10
+  date: <%= Date.today %>
+  user: fred
+  
+run:
+    label: run
+    data: 1
+    date: <%= Date.yesterday %>
+    user: fred

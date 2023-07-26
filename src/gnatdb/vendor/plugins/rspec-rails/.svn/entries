@@ -1,0 +1,127 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/rspec-rails
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+History.txt
+file
+
+
+
+
+2008-09-29T02:27:34.000000Z
+912b17d39b23aad27f00f975635509bc
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+Rakefile
+file
+
+
+
+
+2008-09-29T02:27:34.000000Z
+63ba1ee8aa7708b57e8e8e8f744504c5
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+spec_resources
+dir
+
+Manifest.txt
+file
+
+
+
+
+2008-09-29T02:27:34.000000Z
+530f00844f9a3ee8dcd212f24caf19d8
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+.gitignore
+file
+
+
+
+
+2008-09-29T02:27:34.000000Z
+3a8ad5d410b5c6fb7711178610b7c5b0
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+init.rb
+file
+
+
+
+
+2008-09-29T02:27:34.000000Z
+640f74b8156893c1bc98a2050c8589d3
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+lib
+dir
+
+UPGRADE
+file
+
+
+
+
+2008-09-29T02:27:35.000000Z
+be9376da89cd68249e6b3c72ae03cec0
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+stories
+dir
+
+generators
+dir
+
+spec
+dir
+
+README.txt
+file
+
+
+
+
+2008-09-29T02:27:35.000000Z
+cb27ed6219ab98a7f58bc6b609ee6e16
+2008-09-29T02:20:50.859807Z
+1
+jason
+

@@ -1,0 +1,58 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/forgot_password/generators/forgot_password
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+USAGE
+file
+
+
+
+
+2008-09-29T02:27:16.000000Z
+70e418b306bc1df1f2d2ddd49b741ea1
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+lib
+dir
+
+forgot_password_generator.rb
+file
+
+
+
+
+2008-09-29T02:27:17.000000Z
+ac3c9d0dd1b1fd7def55e7c8360a00fe
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+templates
+dir
+

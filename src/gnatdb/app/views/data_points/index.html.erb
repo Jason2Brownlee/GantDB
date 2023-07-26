@@ -1,0 +1,44 @@
+<% title "Data Records" %>
+
+<% if !params[:view].blank? and params[:view]=="all" %>
+	<div id="data_list">	
+		<% if @data.empty?%>
+			<%= "none" %>
+		<% else %>
+			<h3><%= @data.first.date.strftime("%B %d, %Y")%></h3>
+			<% last = nil%>
+			<% @data.each do |data| %>
+				<% if !last.nil? and last.date != data.date %>
+				<h3 id="date"><%= data.date.strftime("%B %d, %Y")%></h3>
+				<% end %>
+				<%= render :partial => data %>
+				<% last = data %>
+			<%end%>
+		<%end%>
+		<%= will_paginate @data %>	
+	</div>
+	
+	<div id="alt_add"> 
+		or <%= link_to "view recent", data_points_path %>
+	</div>
+<% else %>
+	<div id="data_list">
+		<h3>Today</h3>
+		<%= render :partial => @data_today %>
+		<%= "none" if @data_today.empty? %>
+	</div>
+
+	<div id="data_list">
+		<h3>Yesterday</h3>
+		<%= render :partial => @data_yesterday %>
+		<%= "none" if @data_yesterday.empty? %>
+	</div>
+
+	<div id="alt_add"> 
+		or <%= link_to "view all", data_points_path(:view=>"all") %>
+	</div>
+<% end %>
+
+<br />
+
+

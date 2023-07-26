@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/stories
+END
+multiline_steps.story
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/stories/multiline_steps.story
+END
+stories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/stories/stories.rb
+END

@@ -1,0 +1,29 @@
+<% @user.password = @user.password_confirmation = nil %>
+<%= title "Signup" %>
+
+<div id="signup_box">
+<% form_for @user do |f| %>
+	<div>
+		<%= f.error_messages %>
+	</div>
+	<div>
+		<div id="field_label">username</div>
+		<div><%= f.text_field :login %></div>
+	</div>
+	<div>
+		<div id="field_label">email</div>
+		<div><%= f.text_field :email %></div>
+	</div>
+	<div>
+		<div id="field_label">password</div>
+		<div><%= f.password_field :password %></div>
+	</div>
+	<div>
+		<div id="field_label">confirm password</div>
+		<div><%= f.password_field :password_confirmation %></div>
+	</div>
+	<div>
+		<%= submit_tag 'Sign up' %>
+	</div>
+<% end %>
+</div>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/trunk/vendor/plugins/rspec
+END
+History.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/trunk/vendor/plugins/rspec/History.txt
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/trunk/vendor/plugins/rspec/Rakefile
+END
+Manifest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/trunk/vendor/plugins/rspec/Manifest.txt
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/trunk/vendor/plugins/rspec/init.rb
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/trunk/vendor/plugins/rspec/TODO
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/trunk/vendor/plugins/rspec/.gitignore
+END
+.autotest
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/trunk/vendor/plugins/rspec/.autotest
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/trunk/vendor/plugins/rspec/README.txt
+END

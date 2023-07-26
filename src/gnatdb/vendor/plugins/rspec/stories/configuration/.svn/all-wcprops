@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/configuration
+END
+stories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/configuration/stories.rb
+END
+before_blocks.story
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/configuration/before_blocks.story
+END

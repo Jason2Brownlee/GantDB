@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/trunk/vendor/plugins/role_requirement/generators
+END
+role_generator_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/1/trunk/vendor/plugins/role_requirement/generators/role_generator_helpers.rb
+END

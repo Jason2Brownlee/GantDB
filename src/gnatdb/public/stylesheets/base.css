@@ -1,0 +1,221 @@
+/* === FLASH MESSAGES === */
+div#flash-notice {
+	color: green;
+	font-size: 80%;
+}
+
+div#flash-warning {
+	color: red;
+	font-size: 80%;
+}
+
+div#flash-error {
+	color: red;
+	font-size: 80%;
+}
+
+/* === ERROR MESSAGES === */
+div#errorExplanation {
+	color: red;
+}
+
+div#errorExplanation h2 {
+	color: red;
+	font-size: 90%;
+}
+
+div#errorExplanation p {
+	color: red;
+	font-size: 80%;
+}
+
+div#errorExplanation ul {
+	color: red;
+}
+
+div#errorExplanation ul li {
+	color: red;
+	font-size: 80%;
+}
+
+/* === FORMS === */
+div.fieldWithErrors {
+	
+}
+
+div.fieldWithErrors label {
+	
+}
+
+div.fieldWithErrors input, div.fieldWithErrors select, 
+div.fieldWithErrors textarea
+{
+	
+}
+
+/* jb */
+
+.css1 { font-size: 1.0em; }
+.css2 { font-size: 1.2em; }
+.css3 { font-size: 1.4em; }
+.css4 { font-size: 1.6em; }
+
+h1#title {
+	font-size: 400%;
+	color: #2ea3ec;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+h1#title a {
+	color: #2ea3ec;
+	text-decoration: none;
+}
+#title_db {
+	font-size: 90%;
+	color: black;
+}
+
+
+h2.subtitle {
+	font-size: 120%;
+	color: black;
+	font-style: italic;
+	margin-top: 0em;
+}
+
+
+body {
+	margin:0px 0px; padding:0px;
+	text-align:center;	
+	font-family: arial, sans-serif;
+}
+
+a, a:visited {
+  color: #1291d3;
+}
+	
+div#container {
+	width:500px;
+	margin:0px auto;
+	text-align:left;		
+}
+
+div#header {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	text-align:center;
+}
+
+div#content {
+	text-align:center;
+}
+
+div#login_box {
+	width: 250px;
+	margin:0px auto;
+	text-align:center;
+	margin-top: 2em;
+}
+
+div#field_label {
+	font-size: 80%;
+	color: #aaa;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 1em;
+}
+
+div#field_remember_me {
+	font-size: 80%;
+	color: #aaa;
+	margin-bottom: 1em;
+}
+
+input {
+	font-size: 105%;
+}
+
+div.controls {
+	font-size: 80%;
+	color: #aaa;
+}
+
+div#add_datum {
+	text-align: center;
+	width: 400px;
+	margin:0px auto;
+}
+
+div#datum_examples {
+	font-size: 80%;
+	color: #aaa;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	text-align: left;
+	margin-left: 1em;
+	
+}
+
+div#add_datum_advanced {
+	text-align: left;
+	width: 350px;
+	margin:0px auto;
+}
+
+div#add_buttons {
+	text-align: center;
+	margin-top: 1em;
+}
+
+div#signup_box {
+	text-align: center;
+	width: 350px;
+	margin:0px auto;
+}
+
+div#datapoint {
+	margin-bottom: 1em;
+}
+
+#edit_datapoint {
+	font-size: 70%;
+}
+
+div#tags {
+	font-size: 80%;
+	color: #aaa;
+}
+
+div#data_list {
+	text-align: left;
+}
+
+div#alt_add {
+	font-size: 70%;
+	text-align: left;
+	margin-top: 3em;
+	color: #aaa;
+}
+
+
+
+h3 {
+	text-align: left;
+	margin-top: 1em;
+	color: #2ea3ec;
+	font-weight: bold;
+}
+
+#intro {
+	color: #2ea3ec;
+	font-weight: bold;
+	font-size: 110%;
+	margin-bottom: 0.5em;
+}
+
+#loggout {
+	margin-top: 2em;
+	color: #aaa;
+	font-size: 80%;
+}

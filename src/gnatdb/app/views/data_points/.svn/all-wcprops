@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1/trunk/app/views/data_points
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/trunk/app/views/data_points/edit.html.erb
+END
+_advanced_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/11/trunk/app/views/data_points/_advanced_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/trunk/app/views/data_points/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/trunk/app/views/data_points/new.html.erb
+END
+_datum_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/11/trunk/app/views/data_points/_datum_form.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/trunk/app/views/data_points/show.html.erb
+END
+_data_point.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/trunk/app/views/data_points/_data_point.html.erb
+END

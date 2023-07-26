@@ -1,0 +1,7 @@
+<% title "show datum" %>
+
+<div id="data_list">
+	<h3 id="date"><%= @data_point.date.strftime("%B %d, %Y")%></h3>
+	<%= render :partial => @data_point %>
+</div>
+

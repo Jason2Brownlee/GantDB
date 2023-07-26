@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/trunk/app/views/password_mailer
+END
+forgot_password.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1/trunk/app/views/password_mailer/forgot_password.html.erb
+END
+reset_password.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/trunk/app/views/password_mailer/reset_password.html.erb
+END

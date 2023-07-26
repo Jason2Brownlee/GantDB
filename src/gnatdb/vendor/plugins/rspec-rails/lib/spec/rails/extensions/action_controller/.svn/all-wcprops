@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller
+END
+test_response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller/test_response.rb
+END
+rescue.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller/rescue.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/spec/rails/extensions/action_controller/base.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 17
+/!svn/ver/1/trunk
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/5/trunk/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1/trunk/.gitignore
+END
+README.textile
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1/trunk/README.textile
+END

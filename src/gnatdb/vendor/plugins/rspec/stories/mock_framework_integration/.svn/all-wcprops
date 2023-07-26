@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/mock_framework_integration
+END
+use_flexmock.story
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/mock_framework_integration/use_flexmock.story
+END
+stories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1/trunk/vendor/plugins/rspec/stories/mock_framework_integration/stories.rb
+END

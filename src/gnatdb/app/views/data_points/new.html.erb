@@ -1,0 +1,16 @@
+<%= title "record data" %>
+
+
+<% if !params[:advanced].blank? and params[:advanced]=="true" %>
+	<h3>Advanced Add</h3>
+	<%= render :partial => "data_points/advanced_form", :locals=>{:data_point=>@data_point} %>
+	<div id="alt_add">
+	 	or try <%= link_to "simple add", new_data_point_path %>
+	</div>
+<% else %>
+	<h3>Add</h3>
+	<%= render :partial => "data_points/datum_form", :locals=>{:data_point=>@data_point} %>	
+	<div id="alt_add">
+		or try <%= link_to "advanced add", new_data_point_path(:advanced=>true) %>
+	</div>	
+<% end %>

@@ -1,0 +1,61 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+will_paginate
+dir
+
+aasm
+dir
+
+role_requirement
+dir
+
+forgot_password
+dir
+
+restful_authentication
+dir
+
+exception_notification
+dir
+
+rspec-rails
+dir
+
+acts_as_taggable_on_steroids
+dir
+
+asset_packager
+dir
+
+rspec
+dir
+
+action_mailer_optional_tls
+dir
+

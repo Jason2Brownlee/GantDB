@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/trunk/vendor/plugins/asset_packager/test
+END
+asset_package_helper_production_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1/trunk/vendor/plugins/asset_packager/test/asset_package_helper_production_test.rb
+END
+asset_package_helper_development_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/1/trunk/vendor/plugins/asset_packager/test/asset_package_helper_development_test.rb
+END
+asset_packager_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1/trunk/vendor/plugins/asset_packager/test/asset_packager_test.rb
+END
+asset_packages.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1/trunk/vendor/plugins/asset_packager/test/asset_packages.yml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec/rails
+END
+spec_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec/rails/spec_spec.rb
+END
+sample_modified_fixture.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec/rails/sample_modified_fixture.rb
+END
+spec_server_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec/rails/spec_server_spec.rb
+END
+sample_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec/rails/sample_spec.rb
+END

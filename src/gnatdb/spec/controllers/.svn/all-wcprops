@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/1/trunk/spec/controllers
+END
+users_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/trunk/spec/controllers/users_controller_spec.rb
+END
+authenticated_system_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/trunk/spec/controllers/authenticated_system_spec.rb
+END
+sessions_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/trunk/spec/controllers/sessions_controller_spec.rb
+END
+access_control_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/trunk/spec/controllers/access_control_spec.rb
+END

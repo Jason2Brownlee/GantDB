@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/!svn/ver/1/trunk/stories
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1/trunk/stories/helper.rb
+END
+rest_auth_stories_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/trunk/stories/rest_auth_stories_helper.rb
+END
+rest_auth_stories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/trunk/stories/rest_auth_stories.rb
+END
+all.rb
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1/trunk/stories/all.rb
+END

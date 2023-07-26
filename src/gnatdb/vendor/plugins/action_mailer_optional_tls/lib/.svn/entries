@@ -1,0 +1,40 @@
+8
+
+dir
+6
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/action_mailer_optional_tls/lib
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T22:53:40.551980Z
+6
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+smtp_tls.rb
+file
+
+
+
+
+2008-09-29T22:48:45.000000Z
+7d0b1de8d6cdbafacacd98cd9087eecc
+2008-09-29T22:53:40.551980Z
+6
+jason
+
+action_mailer_tls.rb
+file
+
+
+
+
+2008-09-29T22:48:44.000000Z
+021f1f06701962a2783fe6088ff3c99f
+2008-09-29T22:53:40.551980Z
+6
+jason
+

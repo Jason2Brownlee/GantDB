@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/trunk/vendor/plugins/aasm/lib/persistence
+END
+active_record_persistence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1/trunk/vendor/plugins/aasm/lib/persistence/active_record_persistence.rb
+END

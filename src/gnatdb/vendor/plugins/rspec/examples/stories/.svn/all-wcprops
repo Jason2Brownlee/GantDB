@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/trunk/vendor/plugins/rspec/examples/stories
+END
+adder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/trunk/vendor/plugins/rspec/examples/stories/adder.rb
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/trunk/vendor/plugins/rspec/examples/stories/helper.rb
+END
+addition
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/trunk/vendor/plugins/rspec/examples/stories/addition
+END
+calculator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1/trunk/vendor/plugins/rspec/examples/stories/calculator.rb
+END
+addition.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/trunk/vendor/plugins/rspec/examples/stories/addition.rb
+END

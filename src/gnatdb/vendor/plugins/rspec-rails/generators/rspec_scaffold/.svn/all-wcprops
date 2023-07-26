@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/generators/rspec_scaffold
+END
+rspec_scaffold_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/generators/rspec_scaffold/rspec_scaffold_generator.rb
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/!svn/ver/1/trunk/script
+END
+spec_server
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1/trunk/script/spec_server
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1/trunk/script/console
+END
+autospec
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/trunk/script/autospec
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1/trunk/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/1/trunk/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1/trunk/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1/trunk/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/1/trunk/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/trunk/script/generate
+END
+spec
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/1/trunk/script/spec
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1/trunk/script/plugin
+END

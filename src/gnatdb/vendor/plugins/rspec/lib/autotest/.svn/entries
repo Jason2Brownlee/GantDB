@@ -1,0 +1,52 @@
+8
+
+dir
+1
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/rspec/lib/autotest
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+66d50d4d-125b-4139-9503-aa2348022201
+
+discover.rb
+file
+
+
+
+
+2008-09-29T02:27:52.000000Z
+7eb0d9d3bf84f5349c51244109548262
+2008-09-29T02:20:50.859807Z
+1
+jason
+
+rspec.rb
+file
+
+
+
+
+2008-09-29T02:27:52.000000Z
+4ffd5d48c24085a7974a08d750757cc3
+2008-09-29T02:20:50.859807Z
+1
+jason
+

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec_resources/views/view_spec/foo
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/spec_resources/views/view_spec/foo/show.rhtml
+END

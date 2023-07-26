@@ -1,0 +1,58 @@
+8
+
+dir
+6
+http://gnatdbsvn.spicyelephant.com/trunk/vendor/plugins/action_mailer_optional_tls
+http://gnatdbsvn.spicyelephant.com
+
+
+
+2008-09-29T22:53:40.551980Z
+6
+jason
+
+
+svn:special svn:externals svn:needs-lock
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-09-29T22:48:42.000000Z
+fa8dbe9367a3876cca8282eb7782ad1e
+2008-09-29T22:53:40.551980Z
+6
+jason
+
+init.rb
+file
+
+
+
+
+2008-09-29T22:48:43.000000Z
+71dce76bbf673f7927c53b579fe315c6
+2008-09-29T22:53:40.551980Z
+6
+jason
+
+lib
+dir
+
+README
+file
+
+
+
+
+2008-09-29T22:48:42.000000Z
+14130645d43265817c6111ca19f1a030
+2008-09-29T22:53:40.551980Z
+6
+jason
+

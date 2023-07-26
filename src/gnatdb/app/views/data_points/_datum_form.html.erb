@@ -1,0 +1,23 @@
+<%
+# data_point
+%>
+
+<div id="add_datum">
+<% form_for(data_point) do |f| %>
+  <div>
+  	<%= f.error_messages %>
+  </div>
+  <div>
+		<div>
+			<%= f.text_field :datum, :size=>30 %>
+			<%= f.hidden_field :date %>
+			<%= f.submit "Add" %>
+		</div>
+		<div id="datum_examples">
+			<b>Examples:</b><br />
+			10 pushups, exercise<br />
+			5.50 hamburger meal, fast food, meal, eat<br />
+		</div>
+  </div>
+<% end %>
+</div>

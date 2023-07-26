@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/!svn/ver/1/trunk/lib
+END
+role_requirement_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/trunk/lib/role_requirement_test_helper.rb
+END
+authenticated_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/trunk/lib/authenticated_test_helper.rb
+END
+hijacker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/trunk/lib/hijacker.rb
+END
+role_requirement_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/trunk/lib/role_requirement_system.rb
+END
+authenticated_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/trunk/lib/authenticated_system.rb
+END

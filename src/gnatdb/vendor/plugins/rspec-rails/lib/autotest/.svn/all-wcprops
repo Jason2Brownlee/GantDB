@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/autotest
+END
+discover.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/autotest/discover.rb
+END
+rails_rspec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/lib/autotest/rails_rspec.rb
+END

@@ -1,0 +1,35 @@
+<%
+# data_point
+%>
+
+<div id="add_datum_advanced">
+<% form_for(data_point, :url=>data_point_path(data_point,:advanced=>"true")) do |f| %>
+  <div>
+  	<%= f.error_messages %>
+  </div>
+<table>
+	<tr valign="top">
+		<td>
+			<div id="field_label">quantity:</div>
+			<div><%= f.text_field :data, :size=>5 %></div>
+		</td>
+		<td>
+			<div id="field_label">label:</div>
+			<div><%= f.text_field :label, :size=>10 %></div>
+		</td>
+	</tr>
+</table>
+
+  <div>
+  		<div id="field_label">tags (comma separated)</div>
+		<div><%= f.text_field :tag_list, :size=>30 %></div>	
+  </div>
+  <div>
+  		<div id="field_label">when:</div>
+		<div><%= f.date_select(:date, :order => [:day, :month, :year]) %></div>	
+  </div>
+  <div id="add_buttons">
+  	<%= f.submit "Submit" %>
+  </div>
+<% end %>
+</div>

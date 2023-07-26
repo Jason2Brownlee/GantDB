@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/runner/formatter/story
+END
+html_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/runner/formatter/story/html_formatter.rb
+END
+plain_text_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/runner/formatter/story/plain_text_formatter.rb
+END
+progress_bar_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/runner/formatter/story/progress_bar_formatter.rb
+END

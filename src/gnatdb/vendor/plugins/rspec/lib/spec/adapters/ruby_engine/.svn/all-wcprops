@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/adapters/ruby_engine
+END
+rubinius.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/adapters/ruby_engine/rubinius.rb
+END
+mri.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1/trunk/vendor/plugins/rspec/lib/spec/adapters/ruby_engine/mri.rb
+END

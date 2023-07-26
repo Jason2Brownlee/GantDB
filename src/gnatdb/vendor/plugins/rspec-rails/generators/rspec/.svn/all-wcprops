@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/generators/rspec
+END
+rspec_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/generators/rspec/rspec_generator.rb
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1/trunk/vendor/plugins/rspec-rails/generators/rspec/CHANGES
+END
